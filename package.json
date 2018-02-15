@@ -1,0 +1,24 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "simple book store app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephFernandez2689/booksearch.git"
+  },
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*",
+    "mongoose":"*"
+  },
+  "author": "Joseph Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephFernandez2689/booksearch/issues"
+  },
+  "homepage": "https://github.com/JosephFernandez2689/booksearch#readme"
+}
